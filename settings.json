@@ -8,7 +8,7 @@
   "server": {
     "ip": "ngg1.aternos.me",
     "port": 35192,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
