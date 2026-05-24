@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ngg1.aternos.me",
-    "port": 35192,
-    "version": "1.16.5",
+    "ip": "neggas1.aternos.me",
+    "port": 21964,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
